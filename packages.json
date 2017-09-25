@@ -7290,5 +7290,17 @@
     "description": "Huenim",
     "license": "MIT",
     "web": "https://github.com/IoTone/huenim"
+  },
+  {
+    "name": "fancygl",
+    "url": "https://github.com/krux02/opengl-sandbox",
+    "method": "git",
+    "tags": [
+      "gif",
+      "image"
+    ],
+    "description": "nice way of handling render code",
+    "license": "MIT",
+    "web": "https://github.com/krux02/opengl-sandbox"
   }
 ]
