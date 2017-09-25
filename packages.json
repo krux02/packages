@@ -7290,5 +7290,17 @@
     "description": "Huenim",
     "license": "MIT",
     "web": "https://github.com/IoTone/huenim"
+  },
+  {
+    "name": "gifh",
+    "url": "https://github.com/krux02/nim-gifh",
+    "method": "git",
+    "tags": [
+      "gif",
+      "image"
+    ],
+    "description": "wrapper of gifh",
+    "license": "Public Domain",
+    "web": "https://github.com/krux02/nim-gifh"
   }
 ]
