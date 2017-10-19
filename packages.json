@@ -7440,5 +7440,18 @@
     "description": "Implementation of the WebDriver w3c spec.",
     "license": "MIT",
     "web": "https://github.com/dom96/webdriver"
+  },
+  {
+    "name": "gifh",
+    "url": "https://github.com/krux02/nim-gifh",
+    "method": "git",
+    "tags": [
+      "gif",
+      "animation",
+      "image-format"
+    ],
+    "description": "wrapper of gifh",
+    "license": "Public Domain",
+    "web": "https://github.com/krux02/nim-gifh"
   }
 ]
